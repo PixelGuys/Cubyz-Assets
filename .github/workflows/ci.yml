@@ -1,1 +1,19 @@
+name: Check music compression
 
+on:
+  push:
+    branches: [ "master" ]
+  pull_request:
+    branches: [ "master" ]
+
+jobs:
+  compile:
+    runs-on: ubuntu-latest
+    name: Music integrity check
+    steps:
+      - uses: actions/checkout@v3
+      - run: |
+          if ./compress.bash | grep -q . ; then
+            ./compress.bash
+            exit 1;
+          fi
