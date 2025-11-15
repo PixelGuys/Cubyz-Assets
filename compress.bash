@@ -8,3 +8,4 @@ do
 	ffmpeg -i $item -b:a 128k output/$item -v error
 done
 
+cp -r fonts output/fonts
