@@ -12,6 +12,7 @@ jobs:
     name: Music integrity check
     steps:
       - uses: actions/checkout@v3
+      - run: sudo apt install ffmpeg
       - run: |
           if ./compress.bash | grep -q . ; then
             ./compress.bash
