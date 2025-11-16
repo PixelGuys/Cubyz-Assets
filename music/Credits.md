@@ -11,8 +11,6 @@ Bytepop
 
 [LukeDukeShoot](https://www.youtube.com/@LukeDukeShoot)
 
-Mrmayman
-
 Sinanimea
 
 [TotalDemented](https://youtube.com/@totaldemented?si=3i_906S-0mezSYfe)
