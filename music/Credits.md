@@ -25,4 +25,8 @@ Madception
 [Instagram](https://www.instagram.com/apotheosis_of_a_fool)
 
 Qonundrai
-[]()
+["""X"""](https://x.com/qonundrai)
+[Bluesky](https://bsky.app/profile/qonundrai.bsky.social)
+
+Zeahtrix
+[Youtube](https://www.youtube.com/@Zeahtrix)
