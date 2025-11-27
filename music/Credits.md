@@ -13,5 +13,8 @@ Bytepop
 
 Sinanimea
 
-[TotalDemented](https://youtube.com/@totaldemented?si=3i_906S-0mezSYfe)
+[TotalDemented](https://youtube.com/@totaldemented)
 
+[Madception](https://www.youtube.com/@simonmadception)
+
+[Qonundrai]
