@@ -3,18 +3,26 @@ All artists involved have given consent to have their work used under the [Cubyz
 # Artists
 Bytepop
 
-[Chrythm](https://www.youtube.com/@chrythmmusic)
+Chrythm
+[Youtube](https://www.youtube.com/@chrythmmusic)
 
-[Gray Vibes](https://www.youtube.com/@grayvibes9601)
+Gray Vibes
+[Youtube](https://www.youtube.com/@grayvibes9601)
 
-[ikabodBTW](https://www.youtube.com/@ikabodBTW)
+Ikabod
+[Youtube](https://www.youtube.com/@ikabodBTW)
 
-[LukeDukeShoot](https://www.youtube.com/@LukeDukeShoot)
+LukeDukeShoot
+[Youtube](https://www.youtube.com/@LukeDukeShoot)
+[Soundcloud](https://soundcloud.com/lucianodukiano)
 
 Sinanimea
 
-[TotalDemented](https://youtube.com/@totaldemented)
+TotalDemented
+[Youtube](https://youtube.com/@totaldemented)
 
-[Madception](https://www.youtube.com/@simonmadception)
+Madception
+[Instagram](https://www.instagram.com/apotheosis_of_a_fool)
 
-[Qonundrai]
+Qonundrai
+[]()
