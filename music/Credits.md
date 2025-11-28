@@ -30,3 +30,9 @@ Qonundrai
 
 Zeahtrix
 [Youtube](https://www.youtube.com/@Zeahtrix)
+
+SebastianSoundZ / Sebastian Roussel
+[Website](https://sebastiansoundz.com/)
+[Youtube](https://www.youtube.com/@sebastiansoundz)
+
+Mischol
