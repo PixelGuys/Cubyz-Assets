@@ -25,7 +25,7 @@ Madception
 [Instagram](https://www.instagram.com/apotheosis_of_a_fool)
 
 Qonundrai
-["""X"""](https://x.com/qonundrai)
+[Twitter](https://x.com/qonundrai)
 [Bluesky](https://bsky.app/profile/qonundrai.bsky.social)
 
 Zeahtrix
@@ -36,3 +36,7 @@ SebastianSoundZ / Sebastian Roussel
 [Youtube](https://www.youtube.com/@sebastiansoundz)
 
 Mischol
+
+D3viousRodent
+[Youtube](https://www.youtube.com/@d3viousrodent)
+[Bluesky](https://bsky.app/profile/d3viousrodent.bsky.social)
