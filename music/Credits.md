@@ -40,3 +40,5 @@ Mischol
 D3viousRodent
 [Youtube](https://www.youtube.com/@d3viousrodent)
 [Bluesky](https://bsky.app/profile/d3viousrodent.bsky.social)
+
+veridisquo1997
