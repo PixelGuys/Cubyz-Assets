@@ -41,4 +41,6 @@ D3viousRodent
 [Youtube](https://www.youtube.com/@d3viousrodent)
 [Bluesky](https://bsky.app/profile/d3viousrodent.bsky.social)
 
-veridisquo1997
+verdisquo97
+[Youtube](https://www.youtube.com/@verdisquo97_arts)
+[Instagram](https://www.instagram.com/verdisquo97_arts)
