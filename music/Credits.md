@@ -12,7 +12,7 @@ Gray Vibes
 Ikabod
 [Youtube](https://www.youtube.com/@ikabodBTW)
 
-LukeDukeShoot
+Luciano "LucianoDukiano" Dukiano
 [Youtube](https://www.youtube.com/@LukeDukeShoot)
 [Soundcloud](https://soundcloud.com/lucianodukiano)
 
