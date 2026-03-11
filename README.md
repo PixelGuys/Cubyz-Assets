@@ -12,7 +12,6 @@ Don't: Do not
 
 ### Avoid too repetitive music
 - listing to the same loop with minimum change, over and over again, only gives players headaches
-  A lot of songs in cubyz are like this. so maybe ignore the next Point "Be inspired"
 
 ### Be inspired
 - Listen to other songs in the soundtrack and try to make something inspired by what you hear!
