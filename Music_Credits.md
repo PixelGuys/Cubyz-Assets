@@ -4,6 +4,9 @@ All artists involved have given consent to have their work used under the [Cubyz
 Ashgrove
 [Bandcamp](https://quilters.bandcamp.com/)
 
+Big Willy
+[Youtube](https://www.youtube.com/@bigwillyvevo)
+
 Bytepop
 
 Chrythm
