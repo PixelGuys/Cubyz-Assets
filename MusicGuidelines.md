@@ -1,9 +1,9 @@
-Cubyz Music Guidelines
+# Cubyz Music Guidelines
 
 So, you want to make music for Cubyz. Lucky for you, we let anyone contribute their songs! However, there is a certain quality standard that needs to be met in order for your song to be accepted.
 
 ## Requirements
-The following is required in order for your song to be accepted.
+__The following is required in order for your song to be accepted.__
 
 - Your song must be exported in lossless WAV or FLAC format.
 - Your song must be submitted as a pull request to the [Cubyz Assets Repository](https://github.com/PixelGuys/Cubyz-Assets) unless otherwise stated.
