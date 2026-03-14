@@ -9,9 +9,6 @@ Big Willy
 
 Bytepop
 
-Chrythm
-[Youtube](https://www.youtube.com/@chrythmmusic)
-
 cruz_1320
 
 D3viousRodent
@@ -49,6 +46,9 @@ Sinanimea
 
 TotalDemented
 [Youtube](https://youtube.com/@totaldemented)
+
+utsiitak
+- Helped with mastering Ikabod's "Fallen"
 
 verdisquo97
 [Youtube](https://www.youtube.com/@verdisquo97_arts)
