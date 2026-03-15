@@ -61,8 +61,7 @@ Now that rules have been established, what will you make?
 ### Instruments?
 - Synthesizers and Melodic Percussion are the main instruments of Cubyz. They are not required to be used, but most ambient songs use them as they provide a very bouncy, whimsical sound.
 - Pianos are not recommended, but not disallowed. Try using a synthesized keyboard instead to provide a unique sound.
-- Electric guitars are not whimsical and have no place in the Cubyz soundtrack.
-- On the other hand, bass instruments provide a lovely contrast to the high-pitched synthesizers!
+- Bass instruments provide a lovely contrast to the high-pitched synthesizers!
 - Real, traditional instruments are always a pleasure to listen to, but it's recommended that you play it in an unconventional way.
 
 ### Convention?
