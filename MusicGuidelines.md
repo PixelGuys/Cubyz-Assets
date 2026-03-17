@@ -79,6 +79,7 @@ Browse through these lists to get some inspiration for your song!
 - PilotRedSky
 - Adventure Time
 - LittleBigPlanet
+- Rain World
 
 ### Effects
 - Phaser
