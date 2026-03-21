@@ -47,9 +47,6 @@ Sinanimea
 TotalDemented
 [Youtube](https://youtube.com/@totaldemented)
 
-utsiitak
-- Helped with mastering Ikabod's "Fallen"
-
 verdisquo97
 [Youtube](https://www.youtube.com/@verdisquo97_arts)
 [Instagram](https://www.instagram.com/verdisquo97_arts)
