@@ -21,7 +21,7 @@ There are some rules and suggestions you should follow. Please read through them
 
 ### Follow our Footsteps
 - Before you begin making songs, it is recommended that you listen to [what Cubyz already has](https://github.com/PixelGuys/Cubyz-Assets/tree/master/music) so you can get an idea for its musical style.
-- Optionally, you could use melodies/motifs that exist in the soundtrack to add a greater sense of cohesion between songs.
+- Ideally, you could use melodies/motifs that exist in the soundtrack to add a greater sense of cohesion between songs.
 
 ### Play the Game
 - It is recommended that you play the game and compose based on certain biomes, emotions, or oddities you come across! If something you come across doesn't have an appropriate music track, make one!
