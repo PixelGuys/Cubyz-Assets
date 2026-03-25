@@ -49,7 +49,7 @@ There are some rules and suggestions you should follow. Please read through them
 Now that rules have been established, what will you make?
 
 ### Musical Moods
-- If your song plays at least 1k blocks underground, definitely give it an ominous vibe. Distortion, dissonance, and general creepiness is recommended.
+- If your song plays at least 10k blocks underground, definitely give it an ominous vibe. Distortion, dissonance, and general creepiness is recommended.
 - If your song plays underground, but above 1k blocks, then it should sound energetic. We want cave music to be energetic and then become creepier as you descend into the unknown depths below.
 - If your song plays above-ground, let it breathe with some reverb! Traditional instruments are also more fitting to whatever lies on the surface.
 
