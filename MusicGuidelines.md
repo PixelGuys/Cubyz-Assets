@@ -18,7 +18,7 @@ If your song is added, you are free to create a pull request to change anything 
 **LINK:** [How to make a pull request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request)
 
 ## Song Rules and Suggestions
-There are some rules and suggestions you should follow. Please read through them before making a song.
+There are some rules and suggestions you should follow. Please read through them before making a song, as your song may be rejected if not followed.
 
 ### Follow our Footsteps
 - Before you begin making songs, it is recommended that you listen to [what Cubyz already has](https://github.com/PixelGuys/Cubyz-Assets/tree/master/music) so you can get an idea for its musical style.
@@ -61,11 +61,15 @@ Now that rules have been established, what will you make?
 - Drums will be most common in looping songs, as they will play during stressful events. Outside of looping songs, keep their usage light.
 - Drums can be used in "energetic cave themes" where the player is descending into a cave.
 
+### Sampling?
+- Sampling is allowed as long as it is not easily recognizable and isn't the crux of the song.
+- Please credit samples you use.
+
 ### Instruments?
 - Synthesizers and Melodic Percussion are the main instruments of Cubyz. They are not required to be used, but most ambient songs use them as they provide a very bouncy, whimsical sound.
 - Pianos are not recommended, but not disallowed. Try using a synthesized keyboard instead to provide a unique sound.
-- Bass instruments provide a lovely contrast to the high-pitched synthesizers!
-- Real, traditional instruments are always a pleasure to listen to, but it's recommended that you play it in an unconventional way.
+- Bass patches provide a lovely contrast to high-pitched synthesizers!
+- Real, traditional instruments are always a pleasure to listen to, but it's recommended that you play them in an unconventional way.
 
 ### Convention?
 - Cubyz is all about embracing the strange, whimsical, and curious. In this case, we encourage you to break out of regular music conventions. Use the wrong instrument, make a weird melody! Slide notes, bouncy sounds, strange time signatures! Explore the possibilities, just make sure it fits the game's pre-established style!
@@ -83,6 +87,8 @@ Browse through these lists to get some inspiration for your song!
 - Adventure Time
 - LittleBigPlanet
 - Rain World
+- Terraria
+- Minecraft
 
 ### Effects
 - Phaser
@@ -101,4 +107,3 @@ Take melodies from these songs!
 - Tides by TotalDemented
 - Snaledance by Luciano
 - Deeper by Ikabod
-- Fallen by Ikabod
