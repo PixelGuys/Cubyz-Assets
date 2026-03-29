@@ -6,7 +6,7 @@ So, you want to make music for Cubyz. Lucky for you, we let anyone contribute th
 __The following is required in order for your song to be accepted.__
 
 - Your song must be exported in lossless WAV or FLAC format.
-- Your song's file name should be in lowercase and contain no spaces or other punctuation (underscores and dashes are allowed.)
+- Your song's file name should be in lowercase and contain no spaces or other punctuation except underscores.
 - Your song must be submitted as a pull request to the [Cubyz Assets Repository](https://github.com/PixelGuys/Cubyz-Assets) unless otherwise stated.
 - You must consent to [Cubyz' GLP-3.0 License](https://github.com/PixelGuys/Cubyz-Assets?tab=GPL-3.0-1-ov-file) in your pull request's description.
 - You must provide a proper name for the submitted song(s)
