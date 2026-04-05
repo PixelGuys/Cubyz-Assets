@@ -44,6 +44,8 @@ There are some rules and suggestions you should follow. Please read through them
 - Your song should not be heavily compressed.
 - Your song should be fully audible at 75% volume and be comfortable to listen to at said volume.
 - Try listening to your song in multiple environments, such as through a speaker and through headphones.
+- Avoid too much sub-bass and upper-treble.
+- Listen to other songs in the soundtrack to get a good sense of how it should be mastered.
 
 ## Instrumentation and Composition
 Now that rules have been established, what will you make?
