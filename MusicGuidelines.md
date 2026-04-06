@@ -5,16 +5,18 @@ So, you want to make music for Cubyz. Lucky for you, we let anyone contribute th
 ## Requirements
 __The following is required in order for your song to be accepted.__
 
+
 - Your song must be exported with 48kHz in lossless WAV or FLAC format.
 - Your song's file name should be in lowercase and contain no spaces or other punctuation except underscores.
 - Your song must be submitted as a pull request to the [Cubyz Assets Repository](https://github.com/PixelGuys/Cubyz-Assets) unless otherwise stated.
-- In your PR's description, you must provide a proper name for the submitted song(s)
-- In your PR's description, you must provide your artist name, and optionally any social media you want to have linked in the credits.
+- Please read [Cubyz' GLP-3.0 License](https://github.com/PixelGuys/Cubyz-Assets/blob/master/LICENSE) before you submit your song. In your PR's description, please provide written consent that you agree to have your work used under this license.
+- In your PR's description, please provide a proper name for the submitted song(s)
+- In your PR's description, please provide your artist name, and optionally any social media you want to have linked in the credits.
 - If multiple people worked on your track, provide their names as well and refer them to these requirements.
+
 
 If your song is added, you are free to create a pull request to change anything about the song or your identity in the credits.
 
-__By submitting your song, you agree to [Cubyz' GLP-3.0 License](https://github.com/PixelGuys/Cubyz-Assets?tab=GPL-3.0-1-ov-file).__
 
 **LINK:** [How to make a pull request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request)
 
