@@ -46,3 +46,7 @@ D3viousRodent
 verdisquo97
 [Youtube](https://www.youtube.com/@verdisquo97_arts)
 [Instagram](https://www.instagram.com/verdisquo97_arts)
+
+zion8992
+[Youtube](https://www.youtube.com/@astr0_steve1)
+[Website](https://zion8992.github.io)
