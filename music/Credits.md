@@ -12,10 +12,6 @@ Gray Vibes
 Ikabod
 [Youtube](https://www.youtube.com/@ikabodBTW)
 
-LukeDukeShoot
-[Youtube](https://www.youtube.com/@LukeDukeShoot)
-[Soundcloud](https://soundcloud.com/lucianodukiano)
-
 Sinanimea
 
 Mrmayman
