@@ -1,0 +1,6 @@
+.{
+	.tags = .{.birch},
+	.moodTarget = .{.anxiety = 0.2, .energy = 0.3, .sanity = 0.8},
+	.moodTolerance = 0.6,
+	.chance = 0.9,
+}
