@@ -1,4 +1,5 @@
 .{
-	.audio = "cubyz:default_material/hit/0",
-	.volume = 0.25,
+	.sounds = .{
+		.{.audio = "cubyz:default_material/hit/0", .volume = 0.25}
+	},
 }
